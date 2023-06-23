@@ -22,4 +22,3 @@ I love working in the back-end area because it allows me to utilize my passion f
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrol-Cortesm&show_icons=true&theme=highcontrast)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrol-Cortesm&theme=highcontrast&hide_border=false"  width="400px" />
-![Top Langs](https://github-readme-stats-pedrol-cortesm.vercel.app/api/top-langs/?username=Pedrol-Cotesm&size_weight=0.5&count_weight=0.5)
