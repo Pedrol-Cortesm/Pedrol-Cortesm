@@ -20,5 +20,4 @@ I love working in the back-end area because it allows me to utilize my passion f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-c%C3%B4rtes/)
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrol-Cortesm&show_icons=true&theme=highcontrast)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrol-Cortesm&theme=highcontrast&hide_border=false"  width="400px" />
+![Anurag's GitHub stats](https://github-readme-stats-rtgn.vercel.app/api?username=Pedrol-Cortesm&show_icons=true&theme=highcontrast)
